@@ -10,4 +10,4 @@
 ![](https://github.com/mtinet/otgCommunicationWithAppInventorAndArduino/blob/main/OTGDesign.png?raw=true)  
 
 * 앱인벤터 블럭
-![](https://github.com/mtinet/otgCommunicationWithAppInventorAndArduino/blob/main/OTGBlock.png?raw=true)
+![](https://github.com/mtinet/otgCommunicationWithAppInventorAndArduino/blob/main/OTGBlock1.png?raw=true)
